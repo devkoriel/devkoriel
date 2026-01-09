@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jinsoo Heo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%40+Chronicle+Labs;AWS+EKS+%26+GitOps+Specialist;Web3+Infrastructure+Expert;High+Traffic+Load+Management;eBPF+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%40+Chronicle+Labs;AWS+EKS+%26+GitOps+Specialist;Web3+Infrastructure+Expert;High+Traffic+Load+Management;eBPF+Enthusiast" alt="Typing SVG" />
 
 </div>
 
