@@ -59,11 +59,11 @@ DevOps Engineer @ **Chronicle Labs** | Specializing in **AWS EKS**, **GitOps**, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devkoriel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api?username=devkoriel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devkoriel&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkoriel&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkoriel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkoriel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
@@ -73,7 +73,7 @@ DevOps Engineer @ **Chronicle Labs** | Specializing in **AWS EKS**, **GitOps**, 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=devkoriel&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=devkoriel&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -83,7 +83,7 @@ DevOps Engineer @ **Chronicle Labs** | Specializing in **AWS EKS**, **GitOps**, 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/devkoriel/devkoriel/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/devkoriel/devkoriel/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
@@ -104,6 +104,6 @@ DevOps Engineer @ **Chronicle Labs** | Specializing in **AWS EKS**, **GitOps**, 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=devkoriel&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=devkoriel&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
