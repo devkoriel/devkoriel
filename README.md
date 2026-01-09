@@ -58,13 +58,12 @@ DevOps Engineer @ **Chronicle Labs** | Specializing in **AWS EKS**, **GitOps**, 
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devkoriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkoriel&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&cache_seconds=86400"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devkoriel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devkoriel&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkoriel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devkoriel&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
 </div>
 
 ---
@@ -73,7 +72,7 @@ DevOps Engineer @ **Chronicle Labs** | Specializing in **AWS EKS**, **GitOps**, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devkoriel&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=devkoriel&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
