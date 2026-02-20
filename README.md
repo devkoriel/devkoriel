@@ -47,14 +47,14 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 <td width="120" align="center"><b>Dunamu</b><br><sub>2023 — 2025</sub></td>
 <td>
 <b>DevOps Engineer</b> — <a href="https://upbit.com">Upbit</a>, South Korea's largest crypto exchange<br>
-Kubernetes (EKS & kOps) · Istio service mesh · Kong API Gateway (Lua plugin dev) · AWS network architecture · SLA/SLO/SLI dashboards (Datadog & Grafana) · eBPF-powered observability · Internal tooling (Go & Python)<br>
+<sub>Kubernetes (EKS & kOps) · Istio service mesh · Kong API Gateway (Lua plugin dev) · AWS network architecture · SLA/SLO/SLI dashboards (Datadog & Grafana) · eBPF-powered observability · Internal tooling (Go & Python)</sub>
 </td>
 </tr>
 <tr>
 <td width="120" align="center"><b>PUBG</b><br><sub>2020 — 2022</sub></td>
 <td>
 <b>Lead, Network Security</b> / <b>DevSecOps Engineer</b> — PUBG: NEW STATE<br>
-eBPF + XDP DDoS protection · Load tested for <b>10M+ concurrent users</b> · Kubernetes HPA with custom Prometheus metrics · EKS + Terraform + Helm · Istio service mesh · Jenkins CI + ArgoCD CD · Infrastructure optimization at scale<br>
+<sub>eBPF + XDP DDoS protection · Load tested for <b>10M+ concurrent users</b> · Kubernetes HPA with custom Prometheus metrics · EKS + Terraform + Helm · Istio service mesh · Jenkins CI + ArgoCD CD · Infrastructure optimization at scale</sub>
 </td>
 </tr>
 </table>
