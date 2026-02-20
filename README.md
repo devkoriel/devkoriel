@@ -129,6 +129,16 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 
 ---
 
+### 🎧 Now Playing
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31riuiuuzhuqhm6gxgdku6et4knu&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31riuiuuzhuqhm6gxgdku6et4knu&redirect=true)
+
+</div>
+
+---
+
 ### 💬 Get in Touch
 
 <div align="center">
