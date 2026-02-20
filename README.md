@@ -119,6 +119,13 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 
 ---
 
+### ⌨️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📈 Contribution Graph
 
 <div align="center">
