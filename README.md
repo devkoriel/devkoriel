@@ -21,9 +21,9 @@
 
 DevOps Engineer @ **Chronicle** | Specializing in **AWS EKS**, **GitOps**, & **Web3 Infrastructure**
 
-🔭 Currently working on oracle infrastructure and high-availability distributed systems
-🌱 Deep diving into **eBPF** and kernel-level observability
-⚡ Passionate about building scalable, resilient infrastructure for Web3
+🔭 Currently working on oracle infrastructure and high-availability distributed systems<br>
+🌱 Deep diving into **eBPF** and kernel-level observability<br>
+⚡ Passionate about building scalable, resilient infrastructure for Web3<br>
 📫 Reach me: **dev.koriel@gmail.com** (personal) | **jinsoo@chroniclelabs.org** (work)
 
 ---
