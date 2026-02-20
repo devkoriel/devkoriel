@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jinsoo Heo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%40+Chronicle;AWS+EKS+%26+GitOps+Specialist;Web3+Infrastructure+Expert;High+Traffic+Load+Management;eBPF+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%40+Chronicle;ex-Dunamu+(Upbit)+%7C+ex-PUBG;Oracle+Infra+%26+DeFi+Security;Kubernetes+%26+GitOps+at+Scale;eBPF+%26+Kernel-Level+Observability" alt="Typing SVG" />
 
 </div>
 
@@ -19,12 +19,45 @@
 
 ### 💼 About Me
 
-DevOps Engineer @ **Chronicle** | Specializing in **AWS EKS**, **GitOps**, & **Web3 Infrastructure**
+DevOps Engineer @ **[Chronicle](https://chroniclelabs.org)** — the decentralized oracle network securing DeFi protocols.
 
-🔭 Currently working on oracle infrastructure and high-availability distributed systems<br>
+I own the reliability and infrastructure behind Chronicle's oracle publishing pipeline, ensuring continuous on-chain data delivery across EVM chains. Oracle downtime means DeFi protocol risk, so everything I build is designed for zero-downtime and rapid incident response.
+
+🔭 Building and operating Kubernetes-based oracle infrastructure on **AWS EKS**<br>
+🚀 Driving GitOps adoption with **ArgoCD** app-of-apps pattern across multi-environment deployments<br>
+📊 Designing the observability platform — **Grafana**, **Mimir**, **Loki**, and **Alloy** — for oracle liveness monitoring<br>
+🏗️ Managing infrastructure-as-code with **Terraform**, **Helm**, and IPFS-based immutable configuration<br>
+🔥 Leading on-call and incident response for critical oracle infrastructure<br>
 🌱 Deep diving into **eBPF** and kernel-level observability<br>
-⚡ Passionate about building scalable, resilient infrastructure for Web3<br>
 📫 Reach me: **dev.koriel@gmail.com** (personal) | **jinsoo@chroniclelabs.org** (work)
+
+---
+
+### 🏢 Experience
+
+<table>
+<tr>
+<td width="120" align="center"><b>Chronicle</b><br><sub>2025 — Present</sub></td>
+<td>
+<b>DevOps Engineer</b> — Decentralized oracle network securing DeFi protocols<br>
+<sub>Kubernetes (EKS) · ArgoCD GitOps · Grafana/Mimir/Loki · Terraform · Helm · Incident Response</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>Dunamu</b><br><sub>2023 — 2025</sub></td>
+<td>
+<b>DevOps Engineer</b> — <a href="https://upbit.com">Upbit</a>, South Korea's largest crypto exchange<br>
+Kubernetes (EKS & kOps) · Istio service mesh · Kong API Gateway (Lua plugin dev) · AWS network architecture · SLA/SLO/SLI dashboards (Datadog & Grafana) · eBPF-powered observability · Internal tooling (Go & Python)<br>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>PUBG</b><br><sub>2020 — 2022</sub></td>
+<td>
+<b>Lead, Network Security</b> / <b>DevSecOps Engineer</b> — PUBG: NEW STATE<br>
+eBPF + XDP DDoS protection · Load tested for <b>10M+ concurrent users</b> · Kubernetes HPA with custom Prometheus metrics · EKS + Terraform + Helm · Istio service mesh · Jenkins CI + ArgoCD CD · Infrastructure optimization at scale<br>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,16 +71,23 @@ DevOps Engineer @ **Chronicle** | Specializing in **AWS EKS**, **GitOps**, & **W
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+#### Networking & Service Mesh
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
+![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
+
+#### Observability & Monitoring
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
 #### Languages & Tools
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![eBPF](https://img.shields.io/badge/eBPF-00ADD8?style=for-the-badge&logo=linux&logoColor=white)
-
-#### Observability & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
 #### Web3 & Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
@@ -93,7 +133,7 @@ DevOps Engineer @ **Chronicle** | Specializing in **AWS EKS**, **GitOps**, & **W
 
 <div align="center">
 
-**Open to collaboration on DevOps, Web3, and high-performance infrastructure projects!**
+**Open to collaboration on DevOps, Web3 infrastructure, and high-availability distributed systems!**
 
 [![Email Personal](https://img.shields.io/badge/Personal-dev.koriel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.koriel@gmail.com)
 [![Email Work](https://img.shields.io/badge/Work-jinsoo@chroniclelabs.org-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jinsoo@chroniclelabs.org)
