@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devkoriel/)
 [![Twitter](https://img.shields.io/badge/@devkoriel-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/devkoriel)
-[![Website](https://img.shields.io/badge/Website-koriel.link-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://koriel.link)
+[![Website](https://img.shields.io/badge/Website-koriel.kr-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://koriel.kr)
 [![Blog](https://img.shields.io/badge/Blog-blog.koriel.kr-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.koriel.kr)
 
 </div>
