@@ -124,10 +124,10 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 42 mins
+Total Time: 8 hrs 41 mins
 
-Other   17 hrs 30 mins        ███████████████▓░░░░░░░░░   62.03 %
-Bash    10 hrs 42 mins        █████████▒░░░░░░░░░░░░░░░   37.97 %
+Other   20 hrs 32 mins        █████████████████▓░░░░░░░   70.28 %
+Bash    8 hrs 41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.72 %
 ```
 
 <!--END_SECTION:waka-->
