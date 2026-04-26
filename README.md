@@ -124,16 +124,16 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 21 mins
+Total Time: 9 hrs 27 mins
 
-Other         43 hrs 17 mins        ████████████████████▒░░░░   80.70 %
-JSON          4 hrs 28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-YAML          2 hrs 6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Groff         1 hr 9 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Python        39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Markdown      38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-TypeScript    32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Bash          11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other         36 hrs 16 mins        ███████████████████▓░░░░░   79.32 %
+JSON          4 hrs 28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+YAML          1 hr 19 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Groff         1 hr 9 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Python        39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Markdown      38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+TypeScript    32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Go            8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
