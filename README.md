@@ -124,16 +124,16 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 26 hrs 53 mins
+Total Time: 24 hrs 44 mins
 
-Other        31 hrs 47 mins        █████████████▓░░░░░░░░░░░   54.17 %
-Markdown     14 hrs 39 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-YAML         2 hrs 43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-JavaScript   2 hrs 1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-JSON         1 hr 41 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Text         1 hr 17 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Terraform    1 hr 14 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Bash         53 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other        35 hrs 11 mins        ██████████████▓░░░░░░░░░░   58.72 %
+Markdown     13 hrs 54 mins        █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
+YAML         3 hrs 14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+JSON         1 hr 33 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+TypeScript   1 hr 18 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Terraform    1 hr 13 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Text         55 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Bash         49 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
