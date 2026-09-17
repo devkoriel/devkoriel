@@ -124,15 +124,13 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 4 mins
+Total Time: 1 hr 59 mins
 
-Other      24 hrs 25 mins        ███████████████████████░░   91.87 %
-Bash       1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-YAML       19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Text       17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Markdown   16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Python     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other    25 hrs 42 mins        ███████████████████████░░   92.36 %
+Bash     1 hr 45 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+YAML     19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Python   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
