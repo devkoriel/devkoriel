@@ -126,13 +126,13 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 ```txt
 Total Time: 3 hrs 29 mins
 
-Other        25 hrs 7 mins         ██████████████████████░░░   87.80 %
-Markdown     1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-JavaScript   43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Bash         31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Text         30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-YAML         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Terraform    8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other        24 hrs 8 mins         ██████████████████████░░░   87.36 %
+Markdown     1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+JavaScript   43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Bash         31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Text         30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+YAML         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Terraform    8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 Io           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
