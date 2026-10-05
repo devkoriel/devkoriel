@@ -126,11 +126,11 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 ```txt
 Total Time: 4 hrs 10 mins
 
-Other        16 hrs 26 mins        ████████████████████░░░░░   79.75 %
-Markdown     2 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-YAML         1 hr 36 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-JavaScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JSON         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other        19 hrs 58 mins        ████████████████████▓░░░░   82.72 %
+Markdown     2 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+YAML         1 hr 36 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+JavaScript   9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+JSON         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
