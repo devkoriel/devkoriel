@@ -10,7 +10,7 @@ jobs:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@8991b596d85696d98ea96f775390a1bbe266c8c9 # master (2026-10-23)
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 8
