@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jinsoo Heo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%40+Chronicle;ex-Dunamu+(Upbit)+%7C+ex-PUBG;Oracle+Infra+%26+DeFi+Security;Kubernetes+%26+GitOps+at+Scale;eBPF+%26+Kernel-Level+Observability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%40+Chronicle;ex-Dunamu+(Upbit)+%7C+ex-Karrot+%7C+ex-PUBG;Oracle+Infra+%26+DeFi+Security;Kubernetes+%26+GitOps+at+Scale;eBPF+%26+Kernel-Level+Observability" alt="Typing SVG" />
 
 </div>
 
@@ -37,24 +37,45 @@ I own the reliability and infrastructure behind Chronicle's oracle publishing pi
 
 <table>
 <tr>
-<td width="120" align="center"><b>Chronicle</b><br><sub>2025 — Present</sub></td>
+<td width="120" align="center"><b>Chronicle</b><br><sub>2026 - Present</sub></td>
 <td>
-<b>DevOps Engineer</b> — Decentralized oracle network securing DeFi protocols<br>
+<b>DevOps Engineer</b> · Decentralized oracle network securing DeFi protocols<br>
 <sub>Kubernetes (EKS) · ArgoCD GitOps · Grafana/Mimir/Loki · Terraform · Helm · Incident Response</sub>
 </td>
 </tr>
 <tr>
-<td width="120" align="center"><b>Dunamu</b><br><sub>2023 — 2025</sub></td>
+<td width="120" align="center"><b>Dunamu</b><br><sub>2023 - 2025</sub></td>
 <td>
-<b>DevOps Engineer</b> — <a href="https://upbit.com">Upbit</a>, South Korea's largest crypto exchange<br>
+<b>DevOps Engineer</b> · <a href="https://upbit.com">Upbit</a>, South Korea's largest crypto exchange<br>
 <sub>Kubernetes (EKS & kOps) · Istio service mesh · Kong API Gateway (Lua plugin dev) · AWS network architecture · SLA/SLO/SLI dashboards (Datadog & Grafana) · eBPF-powered observability · Internal tooling (Go & Python)</sub>
 </td>
 </tr>
 <tr>
-<td width="120" align="center"><b>PUBG</b><br><sub>2020 — 2022</sub></td>
+<td width="120" align="center"><b>Karrot</b><br><sub>2022 - 2023</sub></td>
 <td>
-<b>Lead, Network Security</b> / <b>DevSecOps Engineer</b> — PUBG: NEW STATE<br>
+<b>Site Reliability Engineer</b> · <a href="https://www.daangn.com">Danggeun Market</a>, South Korea's leading local marketplace<br>
+<sub>SRE Cluster team · Kubernetes & network stabilization · HAProxy edge with bot/abuser detection · Log & metrics pipelines with Grafana · Istio service mesh · Kubernetes network tuning · FinOps automation</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>PUBG</b><br><sub>2020 - 2022</sub></td>
+<td>
+<b>Lead, Network Security</b> / <b>DevSecOps Engineer</b> · PUBG: NEW STATE<br>
 <sub>eBPF + XDP DDoS protection · Load tested for <b>10M+ concurrent users</b> · Kubernetes HPA with custom Prometheus metrics · EKS + Terraform + Helm · Istio service mesh · Jenkins CI + ArgoCD CD · Infrastructure optimization at scale</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>Angelswing</b><br><sub>2019 - 2020</sub></td>
+<td>
+<b>DevOps Engineer</b> · Drone mapping and digital twin platform<br>
+<sub>AWS ECS (Fargate/EC2) for Rails, Node.js & Python · Blue-green & rolling zero-downtime deploys · AWS WAF + CIS Benchmark hardening · ELK + Elastic APM · VPC public/private subnet design · MSK (Kafka) event streaming</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>LUXROBO</b><br><sub>2017 - 2019</sub></td>
+<td>
+<b>DevOps Technical Lead</b> / <b>SW Dev Team Manager</b> / <b>Software Engineer</b> · MODI modular educational robots<br>
+<sub>Jenkins CI/CD for Linux, macOS, Windows, Android & iOS · C++ build moved to CMake (<b>10x</b> better build time and binary size) · AWS Lambda + API Gateway download server · Led the SW team (Electron & C++) · MODI Studio daemon (C++11, Boost) · MODI Manager iOS app (Swift, BLE)</sub>
 </td>
 </tr>
 </table>
